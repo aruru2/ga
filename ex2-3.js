@@ -1,2 +1,2 @@
-function imgchange5(){document.getElementById('logo').src='./image/NAZIN2.jpg';}
-function imgchange6(){document.getElementById('logo').src='./image/NAKAZIN.jpg';}
+function imgchange5(){document.getElementById('logo3').src='./image/NAZIN2.jpg';}
+function imgchange6(){document.getElementById('logo3').src='./image/NAKAZIN.jpg';}
